@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-md-11 mx-auto">
+                <div class="col-md-12 mx-auto">
                     @if (Session::get('msg'))
                         <div class="alert alert-danger alert-dismissible fade show" role="alert">
                             <strong>{{ Session::get('msg') }}</strong>

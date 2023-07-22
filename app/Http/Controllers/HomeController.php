@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     public function index(){
-        $project = Project::all()->take(2);
+        $project = Project::all()->take(6);
         return view('frontend.home.index',['projects'=>$project]);
     }
 }

@@ -191,6 +191,28 @@ JuicyCode
       <div class="row text-center justify-content-center" data-aos="fade-up">
         <div class="col-lg-8  pb-4">
           <h6 class="text-brand">CONTACT</h6>
+
+          <div class="row gy-4 mt-3 mb-5" data-aos="fade-up" data-aos-delay="300">
+              <div class="col-12 " data-aos="fade-up" data-aos-delay="300">
+                <div class="bg-base p-5 rounded-3 shadow-effect">
+                  <div class="social-icons">
+                    <a href="#"><i class="las la-phone-square"></i></a>
+                  </div>
+                  <h4>Call</h4>
+                  <a href="" class="link-custom">+8801677076763</a>
+                </div>
+              </div>
+    
+              <div class="col-12 " data-aos="fade-up" data-aos-delay="500">
+                <div class="bg-base p-5 rounded-3 shadow-effect">
+                  <div class="social-icons">
+                    <a href="#"><i class="las la-envelope-square"></i></a>
+                  </div>
+                  <a href="mailto:dhushorshimul@gmail.com" class="link-custom" target="_blank">dhushorshimul@gmail.com</a>
+                </div>
+              </div>
+          </div>
+
           <h1>Interested in working together? Let's talk</h1>
         </div>
         <div class="col-lg-8">

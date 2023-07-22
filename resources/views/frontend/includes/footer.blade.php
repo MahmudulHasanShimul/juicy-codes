@@ -11,7 +11,7 @@
             <a href="https://www.facebook.com/dhusor.shimul?mibextid=ZbWKwL" target="_blank"><i class="lab la-facebook-square"></i></a>
             <a href="https://www.linkedin.com/in/mahmudul-hasan-shimul-509b34113" target="_blank"><i class="lab la-linkedin"></i></a>
             <a href="mailto:dhushorshimul@gmail.com" target="_blank"><i class="las la-envelope-square"></i></a>
-            <a href="#"><i class="lab la-instagram"></i></i></a>
+            <a href="#"><i class="lab la-instagram"></i></a>
           </div>
         </div>
       </div>
