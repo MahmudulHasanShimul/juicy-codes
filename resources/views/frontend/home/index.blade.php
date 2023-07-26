@@ -14,7 +14,7 @@ JuicyCode
           <p class="lead mt-2 mb-4" data-aos="fade-up" data-aos-delay="300"> I am Mahmudul Hasan Shimul, And I love to create beautiful and functional
             websites </p>
           <div data-aos="fade-up" data-aos-delay="600">
-            <a href="#work" class="btn btn-brand me-3">Explore My Work</a>
+            <a href="{{asset('/')}}assets/file/mahmudul-hasan-shimul-web-developer.pdf" class="btn btn-brand me-3" download>Download Resume</a>
             <a href="" class="link-custom">Call: +8801677076763</a>
           </div>
         </div>
